@@ -1,4 +1,4 @@
-# Hi, I'm [Arman] 👋
+# Hi, I'm Arman 👋
 
 🎓 CS Undergrad | 💻 Aspiring AI Researcher | 🌱 Lifelong Learner  
 
