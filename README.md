@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm [Arman] 👋
 
-<!--
-**armanhossainsami/armanhossainsami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Undergrad | 💻 Aspiring AI Researcher | 🌱 Lifelong Learner  
 
-Here are some ideas to get you started:
+Welcome to my GitHub!  
+I enjoy exploring algorithms, building projects, and learning new technologies.  
+Currently, I'm focused on sharpening my skills in software development and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+- Programming & Software Engineering  
+- Data Structures & Algorithms  
+- Open Source Contributions  
+- AI  
+
+## 📫 Connect
+- Email: arman54hossain@gmail.com
+
