@@ -16,5 +16,5 @@ Currently, I'm focused on sharpening my skills in software development and probl
 - Email: arman54hossain@gmail.com
 
 
-
-![snake gif](https://github.com/armanhossainsami/armanhossainsami/blob/output/github-contribution-grid-snake.gif)
+## 🐍 Watch Snake Eating My Contributions
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
