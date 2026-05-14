@@ -8,7 +8,7 @@
 
 ## 📌 About Me
 Hi, I'm Arman 👋
-🎓 CS Undergrad | 💻 Aspiring AI Researcher | 🌱 Lifelong Learner
+🎓 CS Undergrad | 💻 Aspiring AI Researcher | 🌱 Lifelong Learner <br>
 Welcome to my GitHub!
 I enjoy exploring algorithms, building projects, and learning new technologies.
 Currently, I'm focused on sharpening my skills in software development and problem-solving.
